@@ -2,7 +2,7 @@
 
 ```python
 def _4ggrx():
-    """social engineer / hacker / red team"""
+    """social engineer / hacker / red team / Developer / Fullstack"""
     findmehere = {
         "Discord": "@4ggrx",
         "Instagram": "instagram.com/4ggrx",
