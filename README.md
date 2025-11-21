@@ -1,5 +1,16 @@
-## Hi there 👋
+### Hey, I'm 4ggrx 📲
 
+def 4ggrx():
+    """social engineer / hacker / red team"""
+    findmehere = {
+        "Discord": "@4ggrx",
+        "Instagram": "instagram.com/4ggrx",
+        "X": "x.com/4ggrx",
+    }
+    for k, v in findmehere.items():
+        print(f"{k:>9}: {v}")
+
+4ggrx()
 <!--
 **Theguyso/theguyso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
