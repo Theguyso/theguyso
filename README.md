@@ -7,6 +7,7 @@ def _4ggrx():
         "Discord": "@4ggrx",
         "Instagram": "instagram.com/4ggrx",
         "X": "x.com/4ggrx",
+        "web": "4ggrx.dev",
     }
     for k, v in findmehere.items():
         print(f"{k:>9}: {v}")
