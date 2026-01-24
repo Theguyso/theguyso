@@ -1,4 +1,4 @@
-### Hey, I'm 4ggrx 📲
+### Hey, I'm 4ggrx 
 
 ```python
 def _4ggrx():
